@@ -5,19 +5,17 @@
 I'm a front-end developer and UX/UI designer focused on building interfaces that are accessible, responsive, and straightforward to use.
 I particularly enjoy improving existing products—finding usability problems, working through the design, and implementing those improvements in code.
 Currently I'm building out my portfolio through projects that combine front-end development with UX thinking. <br>
-<center> Reach out to me at: StevenKhuu91@gmail.com</center>
-
+Reach out to me at: StevenKhuu91@gmail.com
 <br><br>
 # Current Projects:<br>
--- Ranvir - Personal project for a fictional character used in an online roleplaying community. <br>
-A responsive character profile interface focused on information hierarchy,
-accessibility, and clean front-end implementation.
+Ranvir — Character Profile Interface <br>
+A responsive character profile interface originally created for an online roleplaying community, now being redesigned and rebuilt as a UX/UI and front-end development case study.
 
-### [View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/)
+### [View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/) · [View Source](https://github.com/StevenKhuu91/front-end-projects/tree/main/ranvir)
 <br>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/StevenKhuu91) 
+[Email](mailto:StevenKhuu91@gmail.com) · [LinkedIn](https://www.linkedin.com/in/stevenkhuu91)
 
 # 💻 Tech Stack:
 Front End <br>
