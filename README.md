@@ -5,7 +5,6 @@
 I'm a front-end developer and UX/UI designer focused on building interfaces that are accessible, responsive, and straightforward to use.
 I particularly enjoy improving existing products—finding usability problems, working through the design, and implementing those improvements in code.
 Currently I'm building out my portfolio through projects that combine front-end development with UX thinking. <br>
-Reach out to me at: StevenKhuu91@gmail.com
 <br><br>
 # Current Projects:<br>
 Ranvir — Character Profile Interface <br>
