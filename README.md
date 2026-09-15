@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Khuu!</h1>
-<h3 align="center">A Front-End Developer & UX/UI Engineer!</h3>
+<h3 align="center">A Front-End Developer & UX/UI Designer.</h3>
 
 # About Me:
 I'm a front-end developer and UX/UI designer focused on building interfaces that are accessible, responsive, and straightforward to use.
@@ -7,7 +7,12 @@ I particularly enjoy improving existing products—finding usability problems, w
 Currently I'm building out my portfolio through projects that combine front-end development with UX thinking. <br>
 <center> Reach out to me at: StevenKhuu91@gmail.com</center>
 
-## 🌐 Socials:
+<br><br>
+# Current Projects: <br>
+stevenkhuu91.github.io/front-end-portfolio/ranvir -- Character Profile for Liam Ranvir, a fictional character for online roleplaying purposes.
+<br>
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/StevenKhuu91) 
 
 # 💻 Tech Stack:
