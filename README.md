@@ -8,8 +8,8 @@ Currently I'm building out my portfolio through projects that combine front-end 
 <center> Reach out to me at: StevenKhuu91@gmail.com</center>
 
 <br><br>
-# Ranvir — Character Profile Interface
-
+# Current Projects:<br>
+-- Ranvir - Personal project for a fictional character used in an online roleplaying community. <br>
 A responsive character profile interface focused on information hierarchy,
 accessibility, and clean front-end implementation.
 
