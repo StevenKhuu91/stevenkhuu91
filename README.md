@@ -8,8 +8,12 @@ Currently I'm building out my portfolio through projects that combine front-end 
 <center> Reach out to me at: StevenKhuu91@gmail.com</center>
 
 <br><br>
-# Current Projects: <br>
-stevenkhuu91.github.io/front-end-portfolio/ranvir -- Character Profile for Liam Ranvir, a fictional character for online roleplaying purposes.
+# Ranvir — Character Profile Interface
+
+A responsive character profile interface focused on information hierarchy,
+accessibility, and clean front-end implementation.
+
+### [🌐 View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/)
 <br>
 
 # 🌐 Socials:
