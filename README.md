@@ -13,7 +13,7 @@ Currently I'm building out my portfolio through projects that combine front-end 
 A responsive character profile interface focused on information hierarchy,
 accessibility, and clean front-end implementation.
 
-### [🌐 View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/)
+### [View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/)
 <br>
 
 # 🌐 Socials:
