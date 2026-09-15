@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenkhuu91&label=Profile%20views&color=0e75b6&style=flat" alt="stevenkhuu91" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on: my portfolio website & a custom Discord bot for my personal gaming server!<br>🌱 I’m currently learning: JavaScript, React, & SAAS!<br>👨‍💻 All of my projects are available at: https://stevenkhuu91.github.io<br>📫 How to reach me: StevenKhuu91@gmail.com<br>⚡ Fun Facts: I'm an avid Monster Hunter and Pokemon fan! JRPGs are my vibe too!
+🔭 I’m currently working on: my portfolio website & polishing up my older projects for presentation!<br>🌱 I’m currently learning: JavaScript, React, & SAAS!<br>👨‍💻 All of my projects are available at: https://stevenkhuu91.github.io<br>📫 How to reach me: StevenKhuu91@gmail.com<br>⚡ Fun Facts: I'm an avid Monster Hunter and Pokemon fan! JRPGs are my vibe too!
 
 
 ## 🌐 Socials:
