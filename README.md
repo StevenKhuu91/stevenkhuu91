@@ -12,8 +12,8 @@ Currently I'm building out my portfolio through projects that combine front-end 
 
 # 💻 Tech Stack:
 Front End <br>
-HTML5 · CSS3 · JavaScript <br>
+HTML5 · CSS3 · JavaScript <br><br>
 UX/UI & Design <br>
-Figma · Photoshop <br>
+Figma · Photoshop <br><br>
 Development Tools <br>
-Git · GitHub · VS Code <br>
+Git · GitHub · VS Code <br><br>
