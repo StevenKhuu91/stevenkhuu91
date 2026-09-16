@@ -4,13 +4,12 @@
 ## About Me:
 I'm a front-end developer focused on creating well-structured, accessible interfaces with HTML, CSS, and JavaScript. <br>
 My current work involves revisiting older projects, improving their usability and accessibility, refactoring their code, and documenting the decisions behind those changes. <br>
-I'm continuing to deepen my JavaScript skills while exploring modern front-end development and make a push into UX engineering. <br>
-
+I'm continuing to deepen my JavaScript skills while exploring modern front-end development and UX engineering. <br>
 ## Current Projects:<br>
 Ranvir — Character Profile Interface <br>
-A responsive character profile interface originally created for an online roleplaying community, now being redesigned and rebuilt as a UX/UI and front-end development case study.
+A desktop character profile originally created for an online roleplaying community, now refined as a UX/UI and front-end development case study.
 
-### [View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/) · [View Source](https://github.com/StevenKhuu91/front-end-projects/tree/main/ranvir)
+### [View Live Demo](https://stevenkhuu91.github.io/front-end-projects/ranvir/) · [Case Study](https://github.com/StevenKhuu91/front-end-projects/blob/main/ranvir/CASE-STUDY.md) · [View Source](https://github.com/StevenKhuu91/front-end-projects/tree/main/ranvir)
 <br>
 
 ## Tech Stack:
