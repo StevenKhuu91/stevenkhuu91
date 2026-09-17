@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven Khuu!</h1>
-<h3 align="center">A Front-End Developer & UX/UI Designer.</h3>
+<h3 align="center">A Front-End Developer with a UX/UI background.</h3>
 
 ## About Me:
 I'm a front-end developer focused on creating well-structured, accessible interfaces with HTML, CSS, and JavaScript. <br>
