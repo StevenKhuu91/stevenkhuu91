@@ -2,9 +2,9 @@
 <h3 align="center">A Front-End Developer with a UX/UI background.</h3>
 
 ## About Me:
-I'm a front-end developer focused on creating well-structured, accessible interfaces with HTML, CSS, and JavaScript. <br>
-My current work involves revisiting older projects, improving their usability and accessibility, refactoring their code, and documenting the decisions behind those changes. <br>
-I'm continuing to deepen my JavaScript skills while exploring modern front-end development and UX engineering. <br>
+I'm a front-end developer focused on creating well-structured, accessible interfaces with HTML, CSS, and JavaScript. <br><br>
+My current work involves revisiting older projects, improving their usability and accessibility, refactoring their code, and documenting the decisions behind those changes. <br><br>
+I'm continuing to deepen my JavaScript skills while exploring modern front-end development and UX engineering. <br><br>
 ## Current Projects:<br>
 Ranvir — Character Profile Interface <br>
 A desktop character profile originally created for an online roleplaying community, now refined as a UX/UI and front-end development case study.
